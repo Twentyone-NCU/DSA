@@ -1,2 +1,3 @@
-# DSA
- Leetcode recorde
+# DSA Leetcode practice record
+
+- Ref: Youtube channel - NeetCode
